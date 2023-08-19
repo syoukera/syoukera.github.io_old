@@ -26,7 +26,7 @@ d1
 
 ### 画像
 
-![film_image](assets/SCAN0164.JPG)
+![film_image](/docs/assets/SCAN0164.JPG)
 
 画像の読み込みは若干わからない  
 画像を保存するフォルダをassetsという名前に変えたらきちんと表示された
